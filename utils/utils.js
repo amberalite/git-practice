@@ -1,3 +1,3 @@
-const examplerFunction = (a, b) => {
+export const examplerFunction = (a, b) => {
     return a + b;
 }
